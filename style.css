@@ -17,6 +17,7 @@ main {
     background-size: contain;
     display: flex;
     flex-direction: column;
+    box-sizing: border-box;
 }
 
 #logo {
