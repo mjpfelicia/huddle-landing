@@ -9,6 +9,7 @@ body {
     padding: 0px;
     font-family: 'Open Sans', Poppins;
     background: var(--cor-Violeta);
+    box-sizing: border-box;
 }
 
 main {
